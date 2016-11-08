@@ -1,4 +1,4 @@
-# Pauta para Publicar Ofertas Laborales                                                                                                 
+# Pauta para Publicar Ofertas Laborales & Practicas Laborales                                                                                              
 
 > **Nombre de la Empresa**:                                                                                                      
 > **Perfil Requerido**:                                                                                                          
